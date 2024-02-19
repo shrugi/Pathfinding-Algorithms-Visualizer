@@ -64,7 +64,7 @@ Simultaneously explores from both start and end points, meeting in the middle us
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/algorithm-visualizer.git
+    git clone https://github.com/shrugi/Pathfinding-Algorithms-Visualizer.git
     ```
 
 2. Navigate to the project directory:
