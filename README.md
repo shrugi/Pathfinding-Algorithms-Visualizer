@@ -6,11 +6,10 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (367)](https://github.com/shrugi/Pathfinding-Algorithms-Visualizer/assets/119075148/fbe46b78-9d53-4ad8-8460-2be815093775)
+![Screenshot (369)](https://github.com/shrugi/Pathfinding-Algorithms-Visualizer/assets/119075148/1a11da51-c312-4b34-baa7-1d4f1059fddb)
+![Screenshot (370)](https://github.com/shrugi/Pathfinding-Algorithms-Visualizer/assets/119075148/22cd8726-7a4e-439a-ba13-cdb308dcebce)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Meet the Algorithms
 
